@@ -1,7 +1,0 @@
-C:\Users\lonec\source\repos\CSS Project1\obj\Debug\CSS Project1.csproj.AssemblyReference.cache
-C:\Users\lonec\source\repos\CSS Project1\obj\Debug\CSS Project1.csproj.CoreCompileInputs.cache
-C:\Users\lonec\source\repos\CSS Project1\bin\Debug\CSS Project1.exe.config
-C:\Users\lonec\source\repos\CSS Project1\bin\Debug\CSS Project1.exe
-C:\Users\lonec\source\repos\CSS Project1\bin\Debug\CSS Project1.pdb
-C:\Users\lonec\source\repos\CSS Project1\obj\Debug\CSS Project1.exe
-C:\Users\lonec\source\repos\CSS Project1\obj\Debug\CSS Project1.pdb
